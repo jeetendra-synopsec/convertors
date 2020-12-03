@@ -1,0 +1,14 @@
+{
+   "QID": {
+      "@id": "qid_121802",
+      "#text": "121802"
+   },
+   "TYPE": "Vuln",
+   "SSL": "false",
+   "FIRST_FOUND": "2016-02-11T19:09:02Z",
+   "LAST_FOUND": "2016-02-16T23:18:02Z",
+   "TIMES_FOUND": "2",
+   "VULN_STATUS": "Active",
+   "TICKET_NUMBER": "33509",
+   "TICKET_STATE": "OPEN"
+}
